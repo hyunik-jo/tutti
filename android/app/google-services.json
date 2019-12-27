@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "788501089800",
+    "firebase_url": "https://flutter-tutti.firebaseio.com",
+    "project_id": "flutter-tutti",
+    "storage_bucket": "flutter-tutti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788501089800:android:1b73b73c2a7be859c14bbd",
+        "android_client_info": {
+          "package_name": "com.example.tutti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788501089800-qs6uhoa30qj5mbup1vnn05egu6u58485.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1LrwUlKfdva5wq3BCjOty8I8Anhv9FOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788501089800-qs6uhoa30qj5mbup1vnn05egu6u58485.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

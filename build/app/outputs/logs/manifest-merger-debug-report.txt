@@ -1,0 +1,276 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:firebase_auth] /Users/hyunikjo/Documents/Tutti/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /Users/hyunikjo/Documents/Tutti/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core_web] /Users/hyunikjo/Documents/Tutti/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth_web] /Users/hyunikjo/Documents/Tutti/build/firebase_auth_web/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/954b18db951c5e73fa89a1af98d31119/firebase-auth-interop-19.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/ea0d7ff4156fcbc57611a961b34f2556/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/123f90c4fa528d261d29ec44df760ee9/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/75babc3baecd989185e84fa7b6010d57/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/0dabe6dfde01260ccbbfa96511bf949c/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/44a35e62ceb73d4f07c2cf8c6dacc977/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/0abb8e20a27e7d0fd851125c36aad5cb/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/f824236bd54f958a8f3b31c1f576b6d2/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/6cd2c8dbbdc8aac217cf2e1019368ae0/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/24c23f35d7e580a396eae4b3fa92dd88/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/ab5d443cf82a7f424cce162745af76bc/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/54aab89f9ee21b7ab833ca43ac48a9af/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/cc09e61cf94975332e0b2e8e58bffc19/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/47d164043d2850a9965b5be6480dfaba/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/d032edcc22d32f4fb9faea95c68e68c2/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/cc4e146a401e12618c8d4f31e70226a5/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/6e416f9c1ecdd3f2005eaab3ba80c2cf/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/fa5f423cfa4256af4ac03bb472af32ba/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/95b734fbfe9b607b7526ee22e71c0695/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/05dc06e6cef85d274c3a51bc0f9895be/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/2c30574028022caa377971f50d52ea9b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/d859b597399ea5af8229cef30c59ac3c/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/bfe6d920a96787a58f82159ec01eaeca/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/4ac63d6463c16a34397e3685832d57b3/jetified-firebase-components-16.0.0/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/4a6e443e6b65230b37d445765cce3076/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/5443bfc2a919cbf6410520e7df860572/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/577d8056562a129aac9044a588384539/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/75ecd09be42bd0e6a829e85ad4211380/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:8:5-29:19
+MERGED from [:firebase_auth] /Users/hyunikjo/Documents/Tutti/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/hyunikjo/Documents/Tutti/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/hyunikjo/Documents/Tutti/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/hyunikjo/Documents/Tutti/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/954b18db951c5e73fa89a1af98d31119/firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/954b18db951c5e73fa89a1af98d31119/firebase-auth-interop-19.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/ea0d7ff4156fcbc57611a961b34f2556/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/ea0d7ff4156fcbc57611a961b34f2556/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/123f90c4fa528d261d29ec44df760ee9/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/123f90c4fa528d261d29ec44df760ee9/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/75babc3baecd989185e84fa7b6010d57/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/75babc3baecd989185e84fa7b6010d57/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/cc4e146a401e12618c8d4f31e70226a5/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/cc4e146a401e12618c8d4f31e70226a5/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/d859b597399ea5af8229cef30c59ac3c/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/d859b597399ea5af8229cef30c59ac3c/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/cc4e146a401e12618c8d4f31e70226a5/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:10:9-30
+	android:icon
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:11:9-43
+	android:name
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:9:9-57
+activity#com.example.tutti.MainActivity
+ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:12:9-23:20
+	android:launchMode
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:14:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:16:13-163
+	android:theme
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:15:13-47
+	android:name
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:13:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:21:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:26:9-28:33
+	android:value
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:28:13-30
+	android:name
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml:27:13-44
+uses-sdk
+INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_auth] /Users/hyunikjo/Documents/Tutti/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/hyunikjo/Documents/Tutti/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/hyunikjo/Documents/Tutti/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/hyunikjo/Documents/Tutti/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] /Users/hyunikjo/Documents/Tutti/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core_web] /Users/hyunikjo/Documents/Tutti/build/firebase_core_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] /Users/hyunikjo/Documents/Tutti/build/firebase_auth_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth_web] /Users/hyunikjo/Documents/Tutti/build/firebase_auth_web/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/954b18db951c5e73fa89a1af98d31119/firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/954b18db951c5e73fa89a1af98d31119/firebase-auth-interop-19.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/ea0d7ff4156fcbc57611a961b34f2556/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/ea0d7ff4156fcbc57611a961b34f2556/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/123f90c4fa528d261d29ec44df760ee9/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/123f90c4fa528d261d29ec44df760ee9/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/75babc3baecd989185e84fa7b6010d57/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/75babc3baecd989185e84fa7b6010d57/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/0dabe6dfde01260ccbbfa96511bf949c/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/0dabe6dfde01260ccbbfa96511bf949c/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/44a35e62ceb73d4f07c2cf8c6dacc977/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/44a35e62ceb73d4f07c2cf8c6dacc977/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/0abb8e20a27e7d0fd851125c36aad5cb/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/0abb8e20a27e7d0fd851125c36aad5cb/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/f824236bd54f958a8f3b31c1f576b6d2/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/f824236bd54f958a8f3b31c1f576b6d2/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/6cd2c8dbbdc8aac217cf2e1019368ae0/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/6cd2c8dbbdc8aac217cf2e1019368ae0/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/24c23f35d7e580a396eae4b3fa92dd88/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/24c23f35d7e580a396eae4b3fa92dd88/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/ab5d443cf82a7f424cce162745af76bc/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/ab5d443cf82a7f424cce162745af76bc/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/54aab89f9ee21b7ab833ca43ac48a9af/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/54aab89f9ee21b7ab833ca43ac48a9af/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/cc09e61cf94975332e0b2e8e58bffc19/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/cc09e61cf94975332e0b2e8e58bffc19/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/47d164043d2850a9965b5be6480dfaba/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/47d164043d2850a9965b5be6480dfaba/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/d032edcc22d32f4fb9faea95c68e68c2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/d032edcc22d32f4fb9faea95c68e68c2/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/cc4e146a401e12618c8d4f31e70226a5/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/cc4e146a401e12618c8d4f31e70226a5/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/6e416f9c1ecdd3f2005eaab3ba80c2cf/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/6e416f9c1ecdd3f2005eaab3ba80c2cf/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/fa5f423cfa4256af4ac03bb472af32ba/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/fa5f423cfa4256af4ac03bb472af32ba/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/95b734fbfe9b607b7526ee22e71c0695/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/95b734fbfe9b607b7526ee22e71c0695/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/05dc06e6cef85d274c3a51bc0f9895be/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/05dc06e6cef85d274c3a51bc0f9895be/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/2c30574028022caa377971f50d52ea9b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/2c30574028022caa377971f50d52ea9b/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/d859b597399ea5af8229cef30c59ac3c/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/d859b597399ea5af8229cef30c59ac3c/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/bfe6d920a96787a58f82159ec01eaeca/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/bfe6d920a96787a58f82159ec01eaeca/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/4ac63d6463c16a34397e3685832d57b3/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/4ac63d6463c16a34397e3685832d57b3/jetified-firebase-components-16.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/4a6e443e6b65230b37d445765cce3076/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/4a6e443e6b65230b37d445765cce3076/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/5443bfc2a919cbf6410520e7df860572/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/5443bfc2a919cbf6410520e7df860572/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/577d8056562a129aac9044a588384539/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/577d8056562a129aac9044a588384539/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/75ecd09be42bd0e6a829e85ad4211380/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/75ecd09be42bd0e6a829e85ad4211380/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hyunikjo/Documents/Tutti/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/hyunikjo/Documents/Tutti/android/app/src/debug/AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] /Users/hyunikjo/Documents/Tutti/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/hyunikjo/Documents/Tutti/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/hyunikjo/Documents/Tutti/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_auth] /Users/hyunikjo/Documents/Tutti/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_auth] /Users/hyunikjo/Documents/Tutti/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] /Users/hyunikjo/Documents/Tutti/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] /Users/hyunikjo/Documents/Tutti/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_core] /Users/hyunikjo/Documents/Tutti/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/hyunikjo/Documents/Tutti/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/hyunikjo/Documents/Tutti/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:25:13-85
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/20dc4fdcc4db16cda65598ec09369c4f/firebase-auth-19.2.0/AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/ea0d7ff4156fcbc57611a961b34f2556/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/ea0d7ff4156fcbc57611a961b34f2556/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/ea0d7ff4156fcbc57611a961b34f2556/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/ea0d7ff4156fcbc57611a961b34f2556/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/b3b453cdf8baabd3e357dcd9bfe8e721/jetified-firebase-common-19.3.0/AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/75babc3baecd989185e84fa7b6010d57/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/75babc3baecd989185e84fa7b6010d57/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/hyunikjo/.gradle/caches/transforms-2/files-2.1/75babc3baecd989185e84fa7b6010d57/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
