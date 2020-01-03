@@ -10,35 +10,24 @@ void main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Splash(),
-    );
+    return MaterialApp(home: Splash());
   }
 }
 
 class Splash extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    
-
-    return MaterialApp(
-          theme: ThemeData(
-            brightness: Brightness.light,
-
-          ),
-          home: StreamBuilder<FirebaseUser>(
-          stream: FirebaseAuth.instance.onAuthStateChanged,
-          builder: (context, snapshot) {
-            if (snapshot.data == null) {
-              return ChangeNotifierProvider<JoinOrLogin>.value(
-                  value: JoinOrLogin(), child: LoginPage());
-            } 
-            else {
-              return MainPage(email: snapshot.data.email);
-            }
+    return StreamBuilder<FirebaseUser>(
+        stream: FirebaseAuth.instance.onAuthStateChanged,
+        builder: (context, snapshot) {
+          if (snapshot.data == null) {
+            return ChangeNotifierProvider<JoinOrLogin>.value(
+                value: JoinOrLogin(), 
+                child: LoginPage());
+          } else {
+            return MainPage(email: snapshot.data.email);
           }
-          ),
-    );
+        });
   }
 }
 

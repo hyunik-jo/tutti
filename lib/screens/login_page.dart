@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:tutti/data/join_or_login.dart';
 import 'package:tutti/helper/login_background.dart';
+import 'package:tutti/screens/forget_pw.dart';
 
 class LoginPage extends StatelessWidget {
   final GlobalKey<FormState> _formKey = GlobalKey<FormState>();
@@ -50,7 +51,9 @@ class LoginPage extends StatelessWidget {
                         ? 'Already have an Account? Sign In!'
                         : "Don't have an Account yet? Create one!",
                     style: TextStyle(
-                        color: joinOrLogin.isJoin ? Colors.red : Colors.green),
+                        color: joinOrLogin.isJoin
+                            ? Colors.red
+                            : Color.fromARGB(200, 38, 65, 5)),
                   ),
                 ),
               ),
@@ -76,11 +79,11 @@ class LoginPage extends StatelessWidget {
       );
       Scaffold.of(context).showSnackBar(snacBar);
     }
-    // Navigator.push(context,
-    //     MaterialPageRoute(builder: (context) => Mainpage(email: user.email)));
   }
+
   void _login(BuildContext context) async {
-    final AuthResult result = await FirebaseAuth.instance.signInWithEmailAndPassword(
+    final AuthResult result = await FirebaseAuth.instance
+        .signInWithEmailAndPassword(
             email: _emailController.text, password: _passwordController.text);
     final FirebaseUser user = result.user;
 
@@ -116,12 +119,15 @@ class LoginPage extends StatelessWidget {
                 joinOrLogin.isJoin ? 'Join' : 'Login',
                 style: TextStyle(fontSize: 20, color: Colors.white),
               ),
-              color: joinOrLogin.isJoin ? Colors.red : Colors.green,
+              color: joinOrLogin.isJoin
+                  ? Colors.red
+                  : Color.fromARGB(255, 38, 65, 5),
               shape: RoundedRectangleBorder(
                   borderRadius: BorderRadius.circular(15)),
               onPressed: () {
                 if (_formKey.currentState.validate()) {
-                  joinOrLogin.isJoin?_register(context):_login(context);
+                  joinOrLogin.isJoin ? _register(context)
+                   : _login(context);
                 }
               }),
         ),
@@ -177,9 +183,16 @@ class LoginPage extends StatelessWidget {
                     Consumer<JoinOrLogin>(
                       builder: (context, value, child) => Opacity(
                           opacity: value.isJoin ? 0 : 1,
-                          child: Text(
-                            'Forgot Password',
-                            style: TextStyle(fontSize: 11),
+                          child: GestureDetector(
+                            onTap: value.isJoin
+                                ? null
+                                : () {
+                                    goToForgetPw(context);
+                                  },
+                            child: Text(
+                              'Forgot Password',
+                              style: TextStyle(fontSize: 11),
+                            ),
                           )),
                     ),
                   ],
@@ -187,4 +200,9 @@ class LoginPage extends StatelessWidget {
           ),
         ),
       );
+
+  goToForgetPw(BuildContext context) {
+    Navigator.push(
+        context, MaterialPageRoute(builder: (context) => ForgetPw()));
+  }
 }

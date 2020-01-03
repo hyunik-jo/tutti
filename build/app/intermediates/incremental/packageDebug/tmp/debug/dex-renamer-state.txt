@@ -1,4 +1,4 @@
-#Fri Dec 27 12:50:38 KST 2019
+#Fri Jan 03 11:24:04 KST 2020
 base.0=/Users/hyunikjo/Documents/Tutti/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
